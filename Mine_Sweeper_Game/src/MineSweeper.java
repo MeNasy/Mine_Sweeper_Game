@@ -282,7 +282,6 @@ public class MineSweeper
 		index = 0;
 		takeLoc();
 		putChar(mineMap,gameMap);
-		showMap(mineMap);
 		showMap(gameMap);
 		while (true)
 		{
