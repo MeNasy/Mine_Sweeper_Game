@@ -50,16 +50,16 @@ The game provides feedback on the number of mines adjacent to each uncovered cel
   
   ### Example
   ```bash
-     *****************************************
-	Mayin Tarlasina Hoşgeldiniz ! 
- *****************************************
- <> Haritanin boyutlarini belirleyin lütfen. <>
+  *****************************************
+	Mayin Tarlasina Hoşgeldiniz !
+  *****************************************
+  <> Haritanin boyutlarini belirleyin lütfen. <>
 
-Satir sayisi: 3
-Sütun sayisi: 5
+  Satir sayisi: 3
+  Sütun sayisi: 5
 
-Satir: 0
-Sütun: 1
+  Satir: 0
+  Sütun: 1
 
 
 
